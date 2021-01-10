@@ -20,6 +20,8 @@ AI DIET PLANNER
 
 * The diet prediction algorithm, automatically runs every 7 days, by celery. 
 
+* We used to host the recommendation system on the google cloud virtual machine. It made the whole process seamless!!
+
 * It triggers an automatic notification to the users to re feed the data, if any changes are detected in their personal taste and body mass indexing. 
 
 * It is a very powerful system, which can be extended to various domains. 
